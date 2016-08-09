@@ -1,5 +1,8 @@
 #WarPi<br />
 [![Build Status](http://eberlein.io:8080/buildStatus/icon?job=WarPi)](http://eberlein.io:8080/job/WarPi)
+##Current Task:<br />
+Get Encryption Type (looking through airodump-ng)<br />
+
 ###What is it?<br />
 Basically a All-in-One Box for your Car.<br />
 ###Sounds sketchy. Whats exactly in it?<br />
