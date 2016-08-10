@@ -4,7 +4,7 @@
 Get Encryption Type (looking through airodump-ng)<br />
 
 ##Current Problems:
-I personally can't compile rapidjson. Having an open issue. If you get the same problem I will change to some other JSON Library. <br />
+I personally can't compile rapidjson on my Raspberry Pi 2 & 3. Having an open issue. If you get the same problem I will change to some other JSON Library. <br />
 
 ###What is it?<br />
 Basically a All-in-One Box for your Car.<br />
