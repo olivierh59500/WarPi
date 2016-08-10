@@ -3,6 +3,9 @@
 ##Current Task:<br />
 Get Encryption Type (looking through airodump-ng)<br />
 
+##Current Problems:
+I personally can't compile rapidjson. Having an open issue. If you get the same problem I will change to some other JSON Library. <br />
+
 ###What is it?<br />
 Basically a All-in-One Box for your Car.<br />
 ###Sounds sketchy. Whats exactly in it?<br />
