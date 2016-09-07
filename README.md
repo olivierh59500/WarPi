@@ -1,5 +1,9 @@
 #WarPi<br />
 [![Build Status](http://eberlein.io:8080/buildStatus/icon?job=WarPi)](http://eberlein.io:8080/job/WarPi)
+##Status:
+Frozen. Project will be continued when I finish the Python Prototype.<br />
+Python Prototype: https://github.com/Trig0n/WarPi-Python<br />
+
 ##Current Task:<br />
 Get Encryption Type (looking through airodump-ng)<br />
 
